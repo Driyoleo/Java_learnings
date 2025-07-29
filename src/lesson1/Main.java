@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Main {
 
     // java is an object-oriented language so everthing is objected and to define an object we need class
